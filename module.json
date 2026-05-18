@@ -1,0 +1,22 @@
+{
+  "id": "simple-join-alert",
+  "title": "Simple Join Alert",
+  "description": "Plays a bell (or custom) sound when users join the game world",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },  
+  "authors": [
+    {
+      "name": "JaumeHV",
+      "url": ""
+    }
+  ],
+  "scripts": [
+    "scripts/bell.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
